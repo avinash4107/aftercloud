@@ -20,7 +20,6 @@
 	rel="stylesheet" />
 </head>
 <body>
-	<center>
 		<div class="centraprise-logo">
 			<img src="/images/logo.gif" /><br>
 		</div>
@@ -70,6 +69,5 @@
 				</div>
 			</div>
 		</div>
-	</center>
 </body>
 </html>
