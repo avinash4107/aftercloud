@@ -90,7 +90,7 @@
 						<div class="text-left-grp">Salary Details</div>
 
 						<div class="form-fields">
-							<form name="validation" role="form" modelAttribute="salaryInfo"
+							<form:form name="validation" role="form" modelAttribute="salaryInfo"
 								action="/saveSaloryInfo" method="post"
 								onsubmit="return validate();">
 
@@ -140,7 +140,7 @@
 									<input class="btn btn-info" id="submit" name="submit"
 										type="submit" value="Add Salary" onclick="return submit();">
 								</div>
-							</form>
+							</form:form>
 							<div class="footer">
 								<p>
 									Copyright &copy;
