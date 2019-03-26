@@ -254,32 +254,32 @@ district.length; i++) { districtSel.options[districtSel.options.length]
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">PAN Number * : </label>
+										<label class="lable-name">PAN Number * : ${employeeDetails.panNumber}</label>
 										<div>${employeeDetails.panNumber}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Marital Status * : </label>
+										<label class="lable-name">Marital Status * : ${employeeDetails.maritalStatus}</label>
 										<div>${employeeDetails.maritalStatus}</div>
 									</div>
 								</div>
 
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Email Address * : </label>
+										<label class="lable-name">Email Address * : ${employeeDetails.emailAddress}</label>
 										<div>${employeeDetails.emailAddress}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Phone Number * :</label>
+										<label class="lable-name">Phone Number * : ${employeeDetails.phoneNumber}</label>
 										<div>${employeeDetails.phoneNumber}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Password * : </label>
+										<label class="lable-name">Password * : ${employeeDetails.password}</label>
 										<div>${employeeDetails.password}</div>
 									</div>
 								</div>
@@ -295,20 +295,20 @@ district.length; i++) { districtSel.options[districtSel.options.length]
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Flat/Door/Block Num * : </label>
+										<label class="lable-name">Flat/Door/Block Num * : ${employeeDetails.flatNumber}</label>
 										<div>${employeeDetails.flatNumber}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Village * : </label>
+										<label class="lable-name">Village * : ${employeeDetails.village}</label>
 										<div>${employeeDetails.village}</div>
 
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Mandal * : </label>
+										<label class="lable-name">Mandal * : ${employeeDetails.mandal}</label>
 
 										<div>${employeeDetails.mandal}</div>
 									</div>
@@ -316,26 +316,26 @@ district.length; i++) { districtSel.options[districtSel.options.length]
 
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Country * : </label>
+										<label class="lable-name">Country * : ${employeeDetails.country}</label>
 										<div>${employeeDetails.country}</div>
 									</div>
 								</div>
 
 								<div class="form-group">
 									<div>
-										<label class="lable-name">State * : </label>
+										<label class="lable-name">State * : ${employeeDetails.state}</label>
 										<div>${employeeDetails.state}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">District * : </label>
+										<label class="lable-name">District * : ${employeeDetails.district}</label>
 										<div>${employeeDetails.district}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Pincode * : </label>
+										<label class="lable-name">Pincode * : ${employeeDetails.pincode}</label>
 										<div>${employeeDetails.pincode}</div>
 									</div>
 								</div>
@@ -352,39 +352,39 @@ district.length; i++) { districtSel.options[districtSel.options.length]
 
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Asignment Start Date * : </label>
+										<label class="lable-name">Asignment Start Date * : ${employeeDetails.assignmentStartDate}</label>
 										<div>${employeeDetails.assignmentStartDate}</div>
 									</div>
 								</div>
 
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Asignment End Date * : </label>
+										<label class="lable-name">Asignment End Date * : ${employeeDetails.assignmentEndDate}</label>
 										<div>${employeeDetails.assignmentEndDate}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Jon (Designation) * : </label>
+										<label class="lable-name">Jon (Designation) * : ${employeeDetails.job}</label>
 										<div>${employeeDetails.job}</div>
 									</div>
 								</div>
 
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Date of Joining * : </label>
+										<label class="lable-name">Date of Joining * : ${employeeDetails.dateOfJoining}</label>
 										<div>${employeeDetails.dateOfJoining}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Years of Serice * : </label>
+										<label class="lable-name">Years of Serice * : ${employeeDetails.yearsOfService}</label>
 										<div>${employeeDetails.yearsOfService}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Manager * : </label>
+										<label class="lable-name">Manager * : ${employeeDetails.manager}</label>
 										<div>${employeeDetails.manager}</div>
 									</div>
 								</div>
@@ -401,19 +401,19 @@ district.length; i++) { districtSel.options[districtSel.options.length]
 
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Bank Name * : </label>
+										<label class="lable-name">Bank Name * : ${employeeDetails.bankName}</label>
 										<div>${employeeDetails.bankName}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Account Number * : </label>
+										<label class="lable-name">Account Number * : ${employeeDetails.accountNumber}</label>
 										<div>${employeeDetails.accountNumber}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">IFSC Code * : </label>
+										<label class="lable-name">IFSC Code * : ${employeeDetails.ifscCode}</label>
 										<div>${employeeDetails.ifscCode}</div>
 									</div>
 								</div>
@@ -429,38 +429,38 @@ district.length; i++) { districtSel.options[districtSel.options.length]
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">UAN * : </label>
+										<label class="lable-name">UAN * : ${employeeDetails.uanNumber}</label>
 										<div>${employeeDetails.uanNumber}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Adhar Number * : </label>
+										<label class="lable-name">Adhar Number * : ${employeeDetails.adharNumber}</label>
 										<div>${employeeDetails.adharNumber}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Previous Employer * : </label>
+										<label class="lable-name">Previous Employer * : ${employeeDetails.prevoiusEmployee}</label>
 										<div>${employeeDetails.prevoiusEmployee}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
 										<label class="lable-name">Date of Previous Employee
-											Leaving * : </label>
+											Leaving * : ${employeeDetails.dateOfLeaving}</label>
 										<div>${employeeDetails.dateOfLeaving}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Start Date* :</label>
+										<label class="lable-name">Start Date* : ${employeeDetails.startDate}</label>
 										<div>${employeeDetails.startDate}</div>
 									</div>
 								</div>
 								<div class="form-group">
 									<div>
-										<label class="lable-name">End Date* : </label>
+										<label class="lable-name">End Date* : ${employeeDetails.endDate}</label>
 										<div>${employeeDetails.endDate}</div>
 									</div>
 								</div>
