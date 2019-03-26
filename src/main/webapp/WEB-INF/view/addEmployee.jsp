@@ -215,10 +215,10 @@
 						<li id="item3"><a href="employeeList.jsp"><i
 								class="fa fa-users"></i> <span class="collapse in hidden-xs">Employee
 									Details</span></a></li>
-						<li id="item4"><a href="salarystructure.html"><i
+						<li id="item4"><a href="salarystructure.jsp"><i
 								class="fa fa-money"></i> <span class="collapse in hidden-xs">Salary
 									Structure</span></a></li>
-						<li id="item5"><a href="deductions.html"><i
+						<li id="item5"><a href="deductions.jsp"><i
 								class="fa fa-minus"></i> <span class="collapse in hidden-xs">Deductions</span></a></li>
 						<li id="item1"><a href=""><i class="fa fa-sign-out"></i><span
 								class="collapse in hidden-xs"> Log Out</a></li>
