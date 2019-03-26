@@ -91,7 +91,7 @@
 					<div class="user-table">
 						<div class="text-left-grp">Deductions</div>
 						<div class="form-fields">
-							<form name="validation" role="form" modelAttribute="deductionInfoForm"
+							<form:form name="validation" role="form" modelAttribute="deductionInfoForm"
 								action="/saveDeductionInfo" method="post"
 								onsubmit="return validate();">
 								<div class="form-group">
@@ -289,7 +289,7 @@
 									<input class="btn btn-info" id="submit" name="submit"
 										type="submit" value="Deduct" onclick="return submit();">
 								</div>
-							</form>
+							</form:form>
 							<div class="footer">
 								<p>
 									Copyright &copy;
