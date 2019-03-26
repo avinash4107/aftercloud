@@ -227,28 +227,28 @@ district.length; i++) { districtSel.options[districtSel.options.length]
                  
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Employee Number * : </label>
+										<label class="lable-name">Employee Number * : ${employeeDetails.employeeNumber} </label>
 										<div>${employeeDetails.employeeNumber}</div>
 									</div>
 								</div>
 
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Employee Name * : </label>
+										<label class="lable-name">Employee Name * : ${employeeDetails.employeeName}</label>
 										<div>${employeeDetails.employeeName}</div>
 									</div>
 								</div>
 
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Gender * : </label>
+										<label class="lable-name">Gender * : ${employeeDetails.sex}</label>
 										<div>${employeeDetails.sex}</div>
 									</div>
 								</div>
 
 								<div class="form-group">
 									<div>
-										<label class="lable-name">Date of Birth * : </label>
+										<label class="lable-name">Date of Birth * : ${employeeDetails.dateOfBirth}</label>
 										<div>${employeeDetails.dateOfBirth}</div>
 									</div>
 								</div>
