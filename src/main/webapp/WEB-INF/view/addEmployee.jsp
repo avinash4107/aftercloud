@@ -210,9 +210,9 @@
 						</div>
 					</a>
 					<ul class="nav" id="myMenu">
-						<li id="item2"><a href="employee.html"><i
+						<li id="item2"><a href="employeeList.jsp"><i
 								class="fa fa-home"></i> <span class="collapse in hidden-xs">Home</span></a></li>
-						<li id="item3"><a href="add-employee.html"><i
+						<li id="item3"><a href="employeeList.jsp"><i
 								class="fa fa-users"></i> <span class="collapse in hidden-xs">Employee
 									Details</span></a></li>
 						<li id="item4"><a href="salarystructure.html"><i
